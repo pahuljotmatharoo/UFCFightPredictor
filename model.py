@@ -44,7 +44,7 @@ def get_fighter_data(firstName, lastName):
     querystring = {"firstName": firstName, "middleName": "&", "lastName": lastName}
 
     headers = {
-        "x-rapidapi-key": "00bdabf08fmsh3aec84eb76132e7p1eac4ajsn66c394825d9d",  # Replace with your actual API key
+        "x-rapidapi-key": "key",  # Replace with your actual API key
         "x-rapidapi-host": "ufc_fighter_stats.p.rapidapi.com"
     }
     response = requests.get(url, headers=headers, params=querystring, verify=False)
