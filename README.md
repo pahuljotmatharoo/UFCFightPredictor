@@ -24,14 +24,16 @@ The UFC Fight Predictor is designed to analyze historical fight data and predict
 
 Install the required packages:
 
-bash
+```bash
 Copy code
 pip install -r requirements.txt
-
+```
+```bash
 execute app.py by using
 streamlit run app.py
+```
 
-Model
+## Model
 This project utilizes the HistGradientBoostingClassifier from the scikit-learn library. The model is trained on historical fight data and leverages fight statistics to make predictions.
 
 Model Evaluation
