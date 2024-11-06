@@ -49,5 +49,5 @@ The dataset includes UFC fight records, fighter statistics, and other relevant d
 The project outputs prediction results for upcoming UFC fights and provides visualizations of data and model performance metrics. Detailed insights from exploratory data analysis (EDA) are also included.
 
 ![aaa](https://github.com/user-attachments/assets/361890fa-98bc-402c-ae29-7f9ae4cff199)
-![aaaaa](https://github.com/user-attachments/assets/b5a25622-a308-44fe-88f8-c2eee4791ab9)
 ![aaaa](https://github.com/user-attachments/assets/a04ca91e-86e1-4992-9a1a-f7a2466b4930)
+![aaaaa](https://github.com/user-attachments/assets/b5a25622-a308-44fe-88f8-c2eee4791ab9)
