@@ -38,13 +38,13 @@ streamlit run app.py
 ## Model
 This project utilizes the HistGradientBoostingClassifier from the scikit-learn library. The model is trained on historical fight data and leverages fight statistics to make predictions.
 
-Model Evaluation
+## Model Evaluation
 The performance of the model is assessed using common evaluation metrics, including accuracy, precision, and recall.
 
-Data
+## Data
 The dataset includes UFC fight records, fighter statistics, and other relevant data. Ensure you have the necessary data files in place, or modify the data loading script to fit your dataset's structure.
 
-Results
+## Results
 The project outputs prediction results for upcoming UFC fights and provides visualizations of data and model performance metrics. Detailed insights from exploratory data analysis (EDA) are also included.
 
 ![aaa](https://github.com/user-attachments/assets/361890fa-98bc-402c-ae29-7f9ae4cff199)
