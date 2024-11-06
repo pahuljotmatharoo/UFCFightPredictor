@@ -28,6 +28,8 @@ Install the required packages:
 Copy code
 pip install -r requirements.txt
 ```
+
+Run Streamlit App:
 ```bash
 execute app.py by using
 streamlit run app.py
