@@ -22,14 +22,14 @@ The UFC Fight Predictor is designed to analyze historical fight data and predict
    git clone https://github.com/pahuljotmatharoo/UFCFightPredictor.git
    cd UFCFightPredictor
 
-Install the required packages:
+2. Install the required packages:
 
 ```bash
 Copy code
 pip install -r requirements.txt
 ```
 
-Run Streamlit App:
+3. Run Streamlit App:
 ```bash
 execute app.py by using
 streamlit run app.py
